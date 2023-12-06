@@ -29,7 +29,7 @@ function Footer() {
             alt="github"
           />
         </a>
-
+{/* one more */}
       <a href="https://www.behance.net/MariamGabodze">
           <Image
             src="/behance.png"
