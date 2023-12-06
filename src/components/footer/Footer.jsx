@@ -5,7 +5,6 @@ import Image from "next/image";
 function Footer() {
   return (
     <div className={styles.container}>
-      
       <span>@all rights reserved</span>
 {/* I changed icons */}
       <div className={styles.socialNetworks}>
@@ -29,7 +28,6 @@ function Footer() {
             alt="github"
           />
         </a>
-{/* one more */}
       <a href="https://www.behance.net/MariamGabodze">
           <Image
             src="/behance.png"
