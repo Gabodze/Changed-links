@@ -7,7 +7,7 @@ function Footer() {
     <div className={styles.container}>
       
       <span>@all rights reserved</span>
-
+{/* I changed icons */}
       <div className={styles.socialNetworks}>
 
           <a href="https://www.linkedin.com/in/mariam-gabodze-28a839233/">
@@ -29,7 +29,7 @@ function Footer() {
             alt="github"
           />
         </a>
-        
+
       <a href="https://www.behance.net/MariamGabodze">
           <Image
             src="/behance.png"
@@ -38,6 +38,7 @@ function Footer() {
             height={24}
             alt="behance"
           />
+       
         </a>
 
       <a href="https://www.youtube.com/channel/UCF13u86tp01Fe3dVaTr8C1A">
